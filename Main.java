@@ -35,7 +35,7 @@ public class Main {
 
         System.out.println("Give me the name of a person");
         person= keyboard.nextLine();
-
+	System.out.println(" + " " +name)
 
         System.out.println("Least favorite body part");
         bodyPart= keyboard.nextLine();
